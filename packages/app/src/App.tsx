@@ -70,7 +70,7 @@ import { Root } from './components/Root';
 import { DelayingComponentFieldExtension } from './components/scaffolder/customScaffolderExtensions';
 import { defaultPreviewTemplate } from './components/scaffolder/defaultPreviewTemplate';
 import { searchPage } from './components/search/SearchPage';
-import { providers } from './identityProviders';
+// import { providers } from './identityProviders';
 import { SignalsDisplay } from '@backstage/plugin-signals';
 import { techDocsPage } from './components/techdocs/TechDocsPage';
 import { RequirePermission } from '@backstage/plugin-permission-react';
